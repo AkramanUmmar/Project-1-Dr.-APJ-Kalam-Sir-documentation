@@ -1,0 +1,119 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 135px;
+    background-color: rgba(27, 241, 241, 0.732);
+}
+
+.goo {
+    margin: 50px 20px;
+    border-radius: 50%;
+    border: 3px solid #9fafb7;
+    padding: 2px;
+}
+
+.joo {
+    margin: 10px;
+    padding: 10px;
+
+}
+
+p {
+    padding: auto;
+    margin-top: 10px;
+}
+
+.content {
+    padding: 15px;
+}
+
+.main1 {
+    width: 1400px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0px 60px;
+}
+
+#box3>h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#box3>ul>li {
+    margin-top: 10px;
+}
+
+#box3>ul {
+    margin-left: 5px;
+    padding-left: 5px;
+}
+
+.content {
+    background-color: aquamarine;
+}
+
+.div1 {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-content: center;
+
+
+}
+
+.div2 {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-content: center;
+
+
+
+}
+
+.card1>img {
+    border: 1px solid gray;
+    border-radius: 20px;
+    height: 300px;
+    width: 250px;
+    margin: 20px 25px;
+}
+
+.main2>h3 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 1400px;
+    margin-left: 160px;
+    margin-right: 100px;
+    padding: 0px 60px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+
+}
+
+.main2 {
+    background-color: aquamarine;
+
+}
+
+footer {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: rgba(27, 241, 241, 0.732);
+    padding-top: 25px;
+    padding-bottom: 0px;
+
+
+}
+
